@@ -80,7 +80,7 @@ The project demonstrates how **basic data analysis tools** can significantly imp
 ## 📁 Repository Contents
 - `/Presentation` – Project slides (PDF)  
 - `/Data` – Sample datasets (if applicable)  
-- `/Analysis` – Excel-based analysis & charts  
+- `/Report` – Steps and approach taken
 
 ---
 
