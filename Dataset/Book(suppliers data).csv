@@ -1,0 +1,24 @@
+Wholeseller name,Avg. delivery delay,damage percentage ,Category of product ,MOQ(minumum order quantity),Delivery terms,credit terms ,Return policy
+Ganpati Traders,2 day,1-2 %,FMCG & Plasticware,10k,Free delivery,30% prepaid,No
+A-Z wholeseller,on time,less than 5%,"FMCG, Plasticware & House items",20k,Free delivery,Prepaid,No
+Aradhya traders,1 day,5-7 % ,"FMCG, Plasticware & House items",10k,Free delivery,30% prepaid,No
+Ashok enterprise,2 day,nearly 10%,"FMCG, Plasticware & House items",15k ,1000/-,50% prepaid,No
+Anand wholeseller,1 day,5-7 % ,Plasticware & House items,10k,1000/-,Postpaid,No
+,,,,,,,
+,Faster delivery- most reliable,Fewer damages = higher product quality & lower loss.,,Lower MOQ = more flexibility,Lower logistics cost improves margins.,Favorable credit improves cash flow.,
+,,,,,,,
+Wholeseller,Delivery Score,Damage Score,Categories Score,MOQ Score,Delivery Terms Score,Credit Score,Return policy
+Ganpati Traders,1,3,2,3,3,2,0
+A-Z wholeseller,3,2,3,1,3,1,0
+Aradhya traders,2,2,3,3,3,2,0
+Ashok enterprise,1,1,3,2,1,1,0
+Anand wholeseller,2,2,2,3,1,3,0
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Wholeseller,Total,,,,,,
+Ganpati Traders,14,,,,,,
+A-Z wholeseller,13,,,,,,
+Aradhya traders,15,,,,,,
+Ashok enterprise,9,,,,,,
+Anand wholeseller,13,,,,,,
