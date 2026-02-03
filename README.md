@@ -85,4 +85,4 @@ The project demonstrates how **basic data analysis tools** can significantly imp
 ---
 
 ## 📌 Disclaimer
-This project is for **academic and learning purposes**. Business data is collected manually and used only for analysis demonstration.
+This project is for **academic and learning purposes** in **Indian Institute of Technology, Madras**. Business data is collected manually and used only for analysis demonstration.
